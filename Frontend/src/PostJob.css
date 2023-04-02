@@ -1,0 +1,38 @@
+.PostT {
+  color: white;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  position: relative;
+  font-size: 2vw;
+  background-color: darkblue;
+}
+
+.PostingForm {
+  text-align: center;
+  border: solid;
+  border-color: darkblue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: darkblue;
+}
+
+.PostB {
+  width: 20vw;
+  border-radius: 0.35rem;
+  font-size: 2vw;
+  background-color: red;
+  color: white;
+  margin-bottom: 2vw;
+}
+
+.PostJob {
+}
+
+.postform {
+  font-size: 2vw;
+  margin-top: 1vw;
+}
+
+.postlabel {
+  font-size: 1vw;
+}

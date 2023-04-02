@@ -1,0 +1,27 @@
+.foot {
+  display: flex;
+  gap: 4vw;
+  text-align: center;
+  list-style-type: none;
+  height: 5vw;
+  position: relative;
+  font-size: 2vw;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: italic;
+  background-color: blueviolet;
+  margin-top: 0vw;
+  margin: 0;
+  padding: 0;
+}
+
+.footerLinking {
+  color: white;
+  text-decoration: none;
+  margin-left: 2vw;
+}
+
+footer {
+  margin: 0;
+  padding: 0;
+}

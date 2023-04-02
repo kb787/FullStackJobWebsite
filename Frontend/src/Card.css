@@ -1,0 +1,40 @@
+.Mcontent {
+  margin-top: 0vw;
+  position: relative;
+}
+
+.Mcard {
+  text-align: left;
+  border: solid;
+  border-color: lightgray;
+  position: relative;
+  color: yellow;
+  background-color: darkblue;
+}
+
+.title {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: oblique;
+  font-size: 4vw;
+  position: relative;
+}
+
+.cardContent {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  font-size: 2vw;
+  position: relative;
+}
+
+#cbtn {
+  background-color: red;
+  color: white;
+  width: 15vw;
+  font-size: 2vw;
+  margin-left: 40vw;
+  border-radius: 0.75rem;
+  margin-bottom: 3vw;
+  border-color: red;
+  position: relative;
+}

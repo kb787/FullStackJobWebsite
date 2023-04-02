@@ -1,0 +1,24 @@
+.About {
+  text-align: center;
+  border: solid;
+  border-color: darkblue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: darkblue;
+  color: yellow;
+}
+
+.aboutImg {
+  width: 25vw;
+}
+
+.aboutTitle {
+  font-size: 3vw;
+}
+
+.aboutPara {
+  font-size: 1.65vw;
+}
+
+.linking {
+  text-decoration: none;
+}

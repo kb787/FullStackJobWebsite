@@ -1,0 +1,33 @@
+.card {
+  text-align: center;
+  border: solid;
+  border-color: darkblue;
+  position: relative;
+  background-color: darkblue;
+  color: yellow;
+  font-size: 2vw;
+}
+
+.SignInBtn {
+  width: 20vw;
+  font-size: 2vw;
+  margin-left: 20vw;
+  margin-right: 25vw;
+  background-color: red;
+  color: white;
+  border-radius: 0.65rem;
+  border-color: red;
+  position: relative;
+}
+
+.SignInForm {
+  font-size: 2vw;
+}
+
+.SignInInput {
+  font-size: 2vw;
+}
+
+.signinformcontrol {
+  font-size: 2vw;
+}

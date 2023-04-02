@@ -1,0 +1,31 @@
+.Applied {
+  text-align: center;
+  font-size: 2vw;
+  border: solid;
+  border-color: darkblue;
+  position: relative;
+  background-color: darkblue;
+  height: 100vw;
+  color: black;
+}
+
+.AppliedHead {
+  color: yellow;
+}
+
+.dashbordBtn {
+  background-color: red;
+  color: white;
+  width: 15vw;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  border-radius: 0.56rem;
+  font-size: 1vw;
+  border-color: purple;
+}
+
+.appliedLinking {
+  font-size: 1vw;
+  width: 20vw;
+  color: white;
+  text-decoration: none;
+}

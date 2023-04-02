@@ -1,0 +1,67 @@
+.hnav {
+  display: flex;
+  font-size: 2vw;
+  color: black;
+  gap: 5vw;
+  list-style-type: none;
+  padding: 0;
+  position: relative;
+}
+
+#btn {
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-size: 2vw;
+  border-radius: 0.85rem;
+  border-color: red;
+  position: relative;
+}
+
+.searchBtn {
+  background-color: red;
+  color: white;
+  font-size: 1vw;
+  width: 15vw;
+  position: relative;
+}
+
+.header {
+  color: white;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: italic;
+  position: relative;
+}
+
+#hnav {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: oblique;
+  position: relative;
+  font-size: 1vw;
+}
+
+.inputforms {
+  display: flex;
+  gap: 40px;
+  position: relative;
+}
+
+.headerlabel {
+  font-size: 1.5vw;
+  color: white;
+  gap: 6vw;
+}
+
+.headerform {
+  font-size: 1vw;
+}
+
+.Header {
+  background-color: blueviolet;
+}
+
+.linking {
+  color: white;
+}

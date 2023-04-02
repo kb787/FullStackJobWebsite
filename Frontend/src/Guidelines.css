@@ -1,0 +1,19 @@
+.Guidelines {
+  text-align: left;
+  border: solid;
+  border-color: darkblue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: yellow;
+  background-color: darkblue;
+  list-style-type: disc;
+}
+
+.GTit {
+  font-size: 4vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Gcont {
+  font-size: 2vw;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}

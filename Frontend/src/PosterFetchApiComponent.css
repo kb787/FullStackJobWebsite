@@ -1,0 +1,35 @@
+.JobContentHeading {
+  font-size: 3vw;
+  text-align: center;
+  margin-top: 0vw;
+}
+
+.PosterFetchApiComponent {
+  background-color: darkblue;
+  color: yellow;
+  margin-top: 0;
+  padding: 0;
+  height: 100vw;
+}
+
+.PostedJobsComponent {
+  color: yellow;
+}
+
+.AddPostButton {
+  font-size: 2vw;
+  text-align: center;
+  margin-left: 42vw;
+  background-color: red;
+  color: white;
+}
+
+.PostButton {
+  margin-left: 40vw;
+  font-size: 2vw;
+  width: 24vw;
+  background-color: red;
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
